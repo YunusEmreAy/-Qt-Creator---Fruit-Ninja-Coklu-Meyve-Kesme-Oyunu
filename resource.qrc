@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/meyve">
+        <file>images/ananas.png</file>
+        <file>images/elma.png</file>
+        <file>images/hindistancevizi.png</file>
+        <file>images/karpuz.png</file>
+        <file>images/kesilmisananas.png</file>
+        <file>images/kesilmiselma.png</file>
+        <file>images/kesilmishindistancevizi.jpg</file>
+        <file>images/kesilmiskarpuz.png</file>
+        <file>images/kesilmislimon.png</file>
+        <file>images/kesilmisportakal.png</file>
+        <file>images/limon.png</file>
+        <file>images/portakal.png</file>
+    </qresource>
+    <qresource prefix="/arkaplan">
+        <file>images/back1.jpg</file>
+        <file>images/back2.jpg</file>
+        <file>images/back3.jpg</file>
+    </qresource>
+    <qresource prefix="/dosya"/>
+    <qresource prefix="/">
+        <file>konumlar.txt</file>
+    </qresource>
+</RCC>
