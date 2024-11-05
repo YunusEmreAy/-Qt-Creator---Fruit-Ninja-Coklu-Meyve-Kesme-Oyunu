@@ -62,3 +62,8 @@ Bu meyve kesme oyunu, oyuncuları 30 saniyelik süre içinde olabildiğince çok
 
 Kodları inceleyebilir ve oyunu istediğiniz gibi özelleştirebilirsiniz. Meyve kesmenin tadını çıkarın ve en yüksek skora ulaşın!
 
+------------
+**Videolu Anlatım için Aşağıdaki Linki Kullanabilirsiniz.**
+
+[Videolu Anlatım](https://youtu.be/d_VwM6DwwfY "Videolu Anlatım")
+
